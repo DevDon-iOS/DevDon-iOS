@@ -113,7 +113,6 @@ Main focus areas:
 ### Backend / Database
 
 - Supabase
-- REST API
 - Authentication
 - Database design
 
