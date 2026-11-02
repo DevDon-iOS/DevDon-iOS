@@ -1,152 +1,72 @@
 # Hi, I'm Don 👋
 
-I’m currently learning and building at **Apple Developer Academy**.
+I build practical apps and web services, from user interfaces to the backend and database behind them.
 
-My main interests right now are:
+My work spans **iOS/macOS development**, **full-stack web development**, and **AI-assisted engineering**. I’m currently learning and building with teams at **Apple Developer Academy @ POSTECH**, and I manage **Codling**, my app development organization.
 
-- Efficient use of **Codex**
-- Workflow automation
-- Building practical apps with Swift, SwiftUI, and Apple platforms
+## Featured Projects
 
----
+### MEOW Sticky Notes · Released on the Mac App Store
 
-## About Me
+A native macOS sticky notes app, co-developed with a designer.
 
-I’m an iOS/macOS app developer focused on building simple, useful, and polished products.
+- **My role:** App development, working with the designer to turn the product concept into a released app.
+- **Focus:** A simple, useful memo experience for macOS users.
+- [View on the Mac App Store](https://apps.apple.com/kr/app/meow-sticky-notes/id6764761520?mt=12)
 
-I’m also the administrator of **Codling**, an organization where I manage and develop multiple app projects.
+### ValueMetrics · In Development
 
----
+A stock analysis web service, developed under the project name KEVD.
 
-## Organization
+- **My role:** Frontend, backend, and database development.
+- **Stack:** TypeScript, Next.js, NestJS, and Supabase.
+- **Focus:** Connecting financial data and analysis with a usable web interface, while improving reliability through scoped changes and verification.
 
-### Codling
+### MICE · Released on the App Store
 
-**Codling** is my app development organization.
+A team-built iOS app for discovering cultural activities.
 
-The goal of Codling is to build practical software products across Apple platforms, including iOS, macOS, and watchOS.
+- **My role:** Backend and database development within the team.
+- **Context:** Team project completed during Sparta’s iOS bootcamp and released on the App Store.
+- [View on the App Store](https://apps.apple.com/kr/app/id6751704495)
 
----
+### Heatmap · In Development
 
-## Current Projects
+An Apple Watch-based football tracking project.
 
-### MEOW
+- Record football activity on Apple Watch.
+- Explore iPhone heatmaps and movement data such as distance and speed.
 
-**MEOW** is a macOS sticky notes app.
+## Experience & Learning
 
-Current status:
+- **Tenfingers · iOS Development Intern · 2025**  
+  Contributed to DatePop’s UIKit-to-SwiftUI migration with the development team.
+- **Apple Developer Academy @ POSTECH · 2026–Present**  
+  Building apps through team challenges. Expected completion: December 2026.
+- **Sparta · Practical iOS Development Bootcamp · 2025**  
+  Completed training in Swift, SwiftUI, and UIKit, including collaborative app development.
+- **Coursera · Databases and SQL for Data Science with Python · Completed, 2026**  
+  Completed the individual course.
 
-- App Store review in progress
-- Preparing for release
-- Focused on a simple, native, and lightweight memo experience for macOS users
+## How I Work with AI
 
----
+I use AI coding tools actively, with clear boundaries and checks:
 
-### Heatmap
+- Break a problem into specific tasks and define what must not change.
+- Keep implementation separate from production changes and protect existing data.
+- Review changes in branches and pull requests, then check the relevant tests and behavior.
+- Automate repetitive work while keeping the results traceable and reviewable.
 
-**Heatmap** is an Apple Watch-based football tracking app.
-
-Current status:
-
-- In progress
-
-Core concept:
-
-- Record football activity data using Apple Watch
-- Generate heatmaps on iPhone
-- Calculate user movement data such as distance and speed
-
----
-
-### KEVD
-
-**KEVD** is currently in progress.
-
-Current status:
-
-- In progress
-
----
-
-## Main Interests
-
-### Codex Workflow
-
-I’m highly interested in using Codex effectively for real-world development workflows.
-
-Main focus areas:
-
-- Codebase analysis
-- Feature implementation
-- Refactoring
-- Bug fixing
-- Documentation
-- Development workflow automation
-
----
-
-### Automation
-
-I’m interested in automating repetitive work and improving productivity through tools, scripts, and AI-assisted workflows.
-
-Main focus areas:
-
-- Development automation
-- GitHub workflow optimization
-- App release preparation
-- Documentation generation
-- Repetitive task reduction
-
----
+My focus is turning AI-assisted work into useful, dependable tools and services.
 
 ## Tech Stack
 
-### Apple Platforms
-
-- Swift
-- SwiftUI
-- iOS
-- macOS
-- watchOS
-- Xcode
-
-### Backend / Database
-
-- Supabase
-- Authentication
-- Database design
-
-### Tools
-
-- Git
-- GitHub
-- Codex
-- ChatGPT
-- Figma
-- Xcode Cloud / CI workflows
-
-### Areas of Interest
-
-- iOS app development
-- macOS app development
-- watchOS app development
-- AI-assisted development
-- Workflow automation
-- Productivity tools
-- Health and sports tracking apps
-
----
-
-## Currently Focusing On
-
-- Releasing **MEOW**
-- Developing **Heatmap**
-- Developing **KEVD**
-- Improving Codex-based development workflows
-- Building better automation systems for app development
-
----
+- **Apple:** Swift, SwiftUI, UIKit, iOS, macOS, watchOS, Xcode
+- **Web & Backend:** TypeScript, Next.js, NestJS
+- **Data:** SQL, Supabase, authentication, database design
+- **Tools:** Git, GitHub, Codex, ChatGPT, Figma, Xcode Cloud / CI workflows
 
 ## Contact
 
 - GitHub: [@DevDon-iOS](https://github.com/DevDon-iOS)
+- LinkedIn: [Donhyuk Lee](https://www.linkedin.com/in/donhyuk-lee-5b6888225)
