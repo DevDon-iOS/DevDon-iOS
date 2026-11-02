@@ -21,6 +21,7 @@ A stock analysis web service, developed under the project name KEVD.
 - **My role:** Frontend, backend, and database development.
 - **Stack:** TypeScript, Next.js, NestJS, and Supabase.
 - **Focus:** Connecting financial data and analysis with a usable web interface, while improving reliability through scoped changes and verification.
+- [Visit ValueMetrics](https://valuemetrics.finance)
 
 ### Gantto · Released
 
