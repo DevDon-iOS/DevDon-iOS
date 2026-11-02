@@ -29,6 +29,7 @@ A native macOS Gantt chart app for planning personal and small-team projects.
 - **My role:** Product planning, product design, macOS app development, and UI/UX review.
 - **Stack:** Swift, SwiftUI, and Core Data.
 - **Focus:** Making project schedules easier to manage through visual timelines, drag-based editing, and task dependencies.
+- [View on the Mac App Store](https://apps.apple.com/kr/app/gantto/id6767777769?mt=12)
 
 ### Heatmap · In Development
 
