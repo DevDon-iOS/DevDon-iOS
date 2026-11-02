@@ -22,13 +22,13 @@ A stock analysis web service, developed under the project name KEVD.
 - **Stack:** TypeScript, Next.js, NestJS, and Supabase.
 - **Focus:** Connecting financial data and analysis with a usable web interface, while improving reliability through scoped changes and verification.
 
-### MICE · Released on the App Store
+### Gantto · In Development
 
-A team-built iOS app for discovering cultural activities.
+A native macOS Gantt chart app for planning personal and small-team projects.
 
-- **My role:** Backend and database development within the team.
-- **Context:** Team project completed during Sparta’s iOS bootcamp and released on the App Store.
-- [View on the App Store](https://apps.apple.com/kr/app/id6751704495)
+- **My role:** Product planning, product design, macOS app development, and UI/UX review.
+- **Stack:** Swift, SwiftUI, and Core Data.
+- **Focus:** Making project schedules easier to manage through visual timelines, drag-based editing, and task dependencies.
 
 ### Heatmap · In Development
 
