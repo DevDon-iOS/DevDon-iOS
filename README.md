@@ -22,7 +22,7 @@ A stock analysis web service, developed under the project name KEVD.
 - **Stack:** TypeScript, Next.js, NestJS, and Supabase.
 - **Focus:** Connecting financial data and analysis with a usable web interface, while improving reliability through scoped changes and verification.
 
-### Gantto · In Development
+### Gantto · Released
 
 A native macOS Gantt chart app for planning personal and small-team projects.
 
