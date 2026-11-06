@@ -23,7 +23,7 @@ A stock analysis web service, developed under the project name KEVD.
 - **Focus:** Connecting financial data and analysis with a usable web interface, while improving reliability through scoped changes and verification.
 - [Visit ValueMetrics](https://valuemetrics.finance)
 
-### Gantto · Released
+### Gantto · Released on the Mac App Store
 
 A native macOS Gantt chart app for planning personal and small-team projects.
 
