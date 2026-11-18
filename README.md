@@ -32,12 +32,21 @@ A native macOS Gantt chart app for planning personal and small-team projects.
 - **Focus:** Making project schedules easier to manage through visual timelines, drag-based editing, and task dependencies.
 - [View on the Mac App Store](https://apps.apple.com/kr/app/gantto/id6767777769?mt=12)
 
-### Heatmap · In Development
+### Heatmap · Released on the App Store
 
-An Apple Watch-based football tracking project.
+An iPhone and Apple Watch app for football tracking and team coordination.
 
-- Record football activity on Apple Watch.
-- Explore iPhone heatmaps and movement data such as distance and speed.
+- Record football activity on Apple Watch and review quarter-by-quarter heatmaps, distance, and active time on iPhone.
+- Manage team schedules, attendance, and announcements.
+- [View on the App Store](https://apps.apple.com/us/app/heatmap-soccer-gps/id6770569208)
+
+### 오이기부 · Released on the App Store
+
+A team-built iPhone app for discovering and sharing stories across the POSTECH campus.
+
+- Explore campus stories through a 3D map and AR.
+- Create personalized cucumbers and postcards, and discover NFC postcards through an App Clip.
+- [View on the App Store](https://apps.apple.com/kr/app/%EC%98%A4%EC%9D%B4%EA%B8%B0%EB%B6%80/id6823676043)
 
 ## Experience & Learning
 
